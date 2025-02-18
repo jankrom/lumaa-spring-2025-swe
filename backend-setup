@@ -1,0 +1,5 @@
+mkdir task-management
+cd task-management
+mkdir backend
+cd backend
+npm init -y 

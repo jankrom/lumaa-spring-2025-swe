@@ -1,0 +1,1 @@
+npm install express pg bcrypt jsonwebtoken cors dotenv typescript @types/node @types/express @types/pg @types/bcrypt @types/jsonwebtoken @types/cors ts-node-dev 
