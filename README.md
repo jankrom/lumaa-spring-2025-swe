@@ -142,3 +142,8 @@ The application should now be running with:
 I expect a salary of $40 / hour
 
 # Video
+
+
+https://github.com/user-attachments/assets/f23fb2db-9c2e-4f4e-94f9-891cbb328194
+
+
